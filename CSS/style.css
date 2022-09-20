@@ -1,17 +1,19 @@
 <style>
-table {
+
+  table {
   font-family: arial, sans-serif;
   border-collapse: collapse;
   width: 100%;
 }
 
-td, th {
+  td, th {
   border: 1px solid #2b0808;
-  text-align: left;
-  padding: 8px;
+  text-align: center;
+  padding: 10px;
 }
 
-tr:nth-child(even) {
+  tr:nth-child(even) {
   background-color: rgb(219, 211, 211);
 }
+
 </style>
